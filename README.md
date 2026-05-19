@@ -13,8 +13,8 @@ Mô hình được huấn luyện end-to-end từ bước tiền xử lý khối
 | :--: | :-------- | :--: | :--: | :------------- |
 | 1 | Trần Viết Gia Huy | CS0001 | 31231027056 | [@Tommyhuy1705](https://github.com/Tommyhuy1705) |
 | 2 | Nguyễn Minh Nhựt | CS0001 | 31231022656 | [@Sura3607](https://github.com/Sura3607) |
-| 3 | Nguyễn Trọng Hưởng | CS0001 | [MSSV] | @github_huong |
-| 4 | Tô Xuân Đông | CS0001 | 31231025345 | @xuandongg1801 |
+| 3 | Nguyễn Trọng Hưởng | CS0001 | 31231023691 | [@trongjhuongwr](https://github.com/trongjhuongwr) |
+| 4 | Tô Xuân Đông | CS0001 | 31231025345 | [@xuandongg1801](https://github.com/xuandongg1801) |
 
 ## 3. Directory Structure
 Dự án được tổ chức theo cấu trúc module hóa chuẩn mực:
